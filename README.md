@@ -58,4 +58,5 @@ Our analysis of the data shows that the Sharpe ratios for the three investment s
 ### CONCLUSION
 The equal-weighted investment strategy demonstrates the highest Sharpe ratio, indicating superior risk-adjusted performance compared to the maximize Sharpe ratio and minimize variance strategies. This reinforces the notion that a simple equal-weighted approach can often outperform more complex optimization techniques. Investors should carefully consider their risk tolerance and investment objectives when selecting a strategy, but our analysis suggests that an equal-weighted portfolio may be a compelling choice for many.
 
-![alt text](https://github.com/saurabh9651/minvar_maxshpr/images/results.png?raw=true)
+![results](https://user-images.githubusercontent.com/16968671/232250427-d09c8e01-9c21-4111-a022-b314ad3fbb71.png)
+
