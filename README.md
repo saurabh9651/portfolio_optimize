@@ -25,7 +25,7 @@ pip install yfinance pandas numpy scipy matplotlib
 ```python
 git clone https://github.com/your_github_username/portfolio-optimization.git
 ```
-2. Change the stock list, risk-free rate, start and end dates, and rebalancing frequency in the `portfolio_optimization.py` file:
+2. Change the stock list, risk-free rate, start and end dates, and rebalancing frequency in the `potfolio-optimization.ipynb` notebook:
 ```python
 stock_list = ["AAPL", "MSFT", "GOOGL", "AMZN", "TSLA"]
 risk_free_rate = 0.02
